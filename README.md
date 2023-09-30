@@ -14,5 +14,5 @@
 7. Reset All Filters
 8. Please click on table row or card to view detail page
 
-Main focus was to complete what was required in the assignment so styling is not done.
+Main focus was to complete what was required in the assignment so styling is not done yet.
 
