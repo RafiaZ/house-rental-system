@@ -1,0 +1,336 @@
+{
+  "Listings": [
+    {
+      "imageUrl": "https://placehold.co/400/FF5733/FFFFFF",
+      "title": "1 Kanal House for sale",
+      "address": "DHA Phase 6, Lahore",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "house",
+      "isCommercial": false,
+      "price": 65000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/33FF57/FFFFFF",
+      "title": "2 Kanal House for sale",
+      "address": "Gulberg, Lahore",
+      "beds": 6,
+      "bath": 7,
+      "coveredAreaSQFT": 3200,
+      "propertyType": "house",
+      "isCommercial": false,
+      "price": 85000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/5733FF/FFFFFF",
+      "title": "Luxury Apartment for sale",
+      "address": "Clifton, Karachi",
+      "beds": 3,
+      "bath": 4,
+      "coveredAreaSQFT": 1800,
+      "propertyType": "apartment",
+      "isCommercial": false,
+      "price": 12000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/FFFF33/000000",
+      "title": "5 Marla House for sale",
+      "address": "Bahria Town, Islamabad",
+      "beds": 3,
+      "bath": 3,
+      "coveredAreaSQFT": 1500,
+      "propertyType": "house",
+      "isCommercial": false,
+      "price": 4500000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/FF5733/000000",
+      "title": "Commercial Plot for sale",
+      "address": "Blue Area, Islamabad",
+      "beds": null,
+      "bath": null,
+      "coveredAreaSQFT": null,
+      "propertyType": "plot",
+      "isCommercial": true,
+      "price": 100000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/33FF57/000000",
+      "title": "10 Marla House for sale",
+      "address": "Model Town, Lahore",
+      "beds": 4,
+      "bath": 5,
+      "coveredAreaSQFT": 2250,
+      "propertyType": "house",
+      "isCommercial": false,
+      "price": 7500000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/5733FF/000000",
+      "title": "Penthouse with Sea View",
+      "address": "DHA Phase 8, Karachi",
+      "beds": 4,
+      "bath": 4,
+      "coveredAreaSQFT": 2800,
+      "propertyType": "penthouse",
+      "isCommercial": false,
+      "price": 18000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/FFFF33/000000",
+      "title": "Farmhouse with Swimming Pool",
+      "address": "Raiwind Road, Lahore",
+      "beds": 6,
+      "bath": 7,
+      "coveredAreaSQFT": 5000,
+      "propertyType": "farmhouse",
+      "isCommercial": false,
+      "price": 150000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/FF5733/000000",
+      "title": "Apartment in Bahria Enclave",
+      "address": "Bahria Enclave, Islamabad",
+      "beds": 2,
+      "bath": 2,
+      "coveredAreaSQFT": 1200,
+      "propertyType": "apartment",
+      "isCommercial": false,
+      "price": 5500000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/33FF57/000000",
+      "title": "Commercial Plaza in Saddar",
+      "address": "Saddar, Karachi",
+      "beds": null,
+      "bath": null,
+      "coveredAreaSQFT": null,
+      "propertyType": "commercial",
+      "isCommercial": true,
+      "price": 25000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/5733FF/000000",
+      "title": "2 Kanal Farmhouse with Pool",
+      "address": "Bedian Road, Lahore",
+      "beds": 7,
+      "bath": 8,
+      "coveredAreaSQFT": 8000,
+      "propertyType": "farmhouse",
+      "isCommercial": false,
+      "price": 280000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/FFFF33/000000",
+      "title": "4 Marla House for sale",
+      "address": "Johar Town, Lahore",
+      "beds": 4,
+      "bath": 3,
+      "coveredAreaSQFT": 1800,
+      "propertyType": "house",
+      "isCommercial": false,
+      "price": 9000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/FF5733/000000",
+      "title": "Luxury Villa in Bahria Town",
+      "address": "Bahria Town, Karachi",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 3200,
+      "propertyType": "villa",
+      "isCommercial": false,
+      "price": 22000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/33FF57/000000",
+      "title": "Commercial Office Space",
+      "address": "I.I. Chundrigar Road, Karachi",
+      "beds": null,
+      "bath": null,
+      "coveredAreaSQFT": null,
+      "propertyType": "office",
+      "isCommercial": true,
+      "price": 15000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/FF5733/000000",
+      "title": "Luxury Villa in Bahria Town",
+      "address": "Bahria Town, Karachi",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 3200,
+      "propertyType": "villa",
+      "isCommercial": false,
+      "price": 22000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/FF5733/FFFFFF",
+      "title": "1 Kanal House for sale",
+      "address": "DHA Phase 6, Lahore",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 2350,
+      "propertyType": "house",
+      "isCommercial": false,
+      "price": 65000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/33FF57/FFFFFF",
+      "title": "2 Kanal House for sale",
+      "address": "Gulberg, Lahore",
+      "beds": 6,
+      "bath": 7,
+      "coveredAreaSQFT": 3200,
+      "propertyType": "house",
+      "isCommercial": false,
+      "price": 85000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/5733FF/FFFFFF",
+      "title": "Luxury Apartment for sale",
+      "address": "Clifton, Karachi",
+      "beds": 3,
+      "bath": 4,
+      "coveredAreaSQFT": 1800,
+      "propertyType": "apartment",
+      "isCommercial": false,
+      "price": 12000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/FFFF33/000000",
+      "title": "5 Marla House for sale",
+      "address": "Bahria Town, Islamabad",
+      "beds": 3,
+      "bath": 3,
+      "coveredAreaSQFT": 1500,
+      "propertyType": "house",
+      "isCommercial": false,
+      "price": 4500000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/FF5733/000000",
+      "title": "Commercial Plot for sale",
+      "address": "Blue Area, Islamabad",
+      "beds": null,
+      "bath": null,
+      "coveredAreaSQFT": null,
+      "propertyType": "plot",
+      "isCommercial": true,
+      "price": 100000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/33FF57/000000",
+      "title": "10 Marla House for sale",
+      "address": "Model Town, Lahore",
+      "beds": 4,
+      "bath": 5,
+      "coveredAreaSQFT": 2250,
+      "propertyType": "house",
+      "isCommercial": false,
+      "price": 7500000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/5733FF/000000",
+      "title": "Penthouse with Sea View",
+      "address": "DHA Phase 8, Karachi",
+      "beds": 4,
+      "bath": 4,
+      "coveredAreaSQFT": 2800,
+      "propertyType": "penthouse",
+      "isCommercial": false,
+      "price": 18000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/FFFF33/000000",
+      "title": "Farmhouse with Swimming Pool",
+      "address": "Raiwind Road, Lahore",
+      "beds": 6,
+      "bath": 7,
+      "coveredAreaSQFT": 5000,
+      "propertyType": "farmhouse",
+      "isCommercial": false,
+      "price": 150000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/FF5733/000000",
+      "title": "Apartment in Bahria Enclave",
+      "address": "Bahria Enclave, Islamabad",
+      "beds": 2,
+      "bath": 2,
+      "coveredAreaSQFT": 1200,
+      "propertyType": "apartment",
+      "isCommercial": false,
+      "price": 5500000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/33FF57/000000",
+      "title": "Commercial Plaza in Saddar",
+      "address": "Saddar, Karachi",
+      "beds": null,
+      "bath": null,
+      "coveredAreaSQFT": null,
+      "propertyType": "commercial",
+      "isCommercial": true,
+      "price": 25000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/5733FF/000000",
+      "title": "2 Kanal Farmhouse with Pool",
+      "address": "Bedian Road, Lahore",
+      "beds": 7,
+      "bath": 8,
+      "coveredAreaSQFT": 8000,
+      "propertyType": "farmhouse",
+      "isCommercial": false,
+      "price": 280000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/FFFF33/000000",
+      "title": "4 Marla House for sale",
+      "address": "Johar Town, Lahore",
+      "beds": 4,
+      "bath": 3,
+      "coveredAreaSQFT": 1800,
+      "propertyType": "house",
+      "isCommercial": false,
+      "price": 9000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/FF5733/000000",
+      "title": "Luxury Villa in Bahria Town",
+      "address": "Bahria Town, Karachi",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 3200,
+      "propertyType": "villa",
+      "isCommercial": false,
+      "price": 22000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/33FF57/000000",
+      "title": "Commercial Office Space",
+      "address": "I.I. Chundrigar Road, Karachi",
+      "beds": null,
+      "bath": null,
+      "coveredAreaSQFT": null,
+      "propertyType": "office",
+      "isCommercial": true,
+      "price": 15000000
+    },
+    {
+      "imageUrl": "https://placehold.co/400/FF5733/000000",
+      "title": "Luxury Villa in Bahria Town",
+      "address": "Bahria Town, Karachi",
+      "beds": 5,
+      "bath": 6,
+      "coveredAreaSQFT": 3200,
+      "propertyType": "villa",
+      "isCommercial": false,
+      "price": 22000000
+    }
+    
+    
+  ]
+}
