@@ -26,7 +26,7 @@ function DetailsPage() {
                     {title}
                 </h1>
                 <h4>Beds: {beds}</h4>
-                <div className="d-flex align-items-center">
+                <div className="d-flex align-items-center" style={{color: "black"}}>
                     <div><h6>Bath:</h6> </div>
                     <div><p>{bath}</p> </div>
                 </div>
